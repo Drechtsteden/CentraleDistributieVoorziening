@@ -4,7 +4,9 @@ In Drechtsteden wordt continu gewerkt aan het realiseren van maatschappelijk toe
 
 ## Datamanagement
 
-Aan de basis van de digitale transformatie ligt het managen van data. Kwalitatieve data verzamelen is belangrijk, maar door het gebruik ervan creëer je pas echt waarde. Drechtsteden werkt met een regionale aanpak, hiervoor hebben we kaders en richtlijnen opgesteld. Er zijn processen ingericht, een centraal integratie-team samengesteld en een integratievoorziening opgezet. Hierdoor kunnen we data gecontroleerd laten stromen. 
+Aan de basis van de digitale transformatie ligt het managen van data. Kwalitatieve data verzamelen is belangrijk, maar door het gebruik ervan creëer je pas echt waarde. Drechtsteden werkt met een regionale aanpak, hiervoor hebben we kaders en richtlijnen opgesteld. Er zijn processen ingericht, een centraal integratie-team samengesteld en een integratievoorziening opgezet. Hierdoor kunnen we data gecontroleerd laten stromen. Het onderstaande dashboard geeft de huidige status van de aansluitingen weer. 
+
+![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Dashboard%20CDV%20aansluitingen%20-%20jan%202020.jpg "Dashboard januari 2020")
 
 De landelijke beweging ‘Common Ground’ benadrukt het belang van datamanagement. Transparantie, flexibiliteit en duurzaamheid speelt hierbij een belangrijke rol. Of het nu gaat om delen van data rondom de omgevingswet, de energietransitie of ondermijning.  De integrale aanpak van Drechtsteden sluit hier perfect op aan.
 

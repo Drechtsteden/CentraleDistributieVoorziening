@@ -22,7 +22,7 @@ Hieraan worden binnen afzienbare tijd toegevoegd:
 -	Lokale API Gateway (als onderdeel van de tooling aangeduid met het container begrip 'API-Management tooling')
 -	[NLX](https://https://nlx.io/) (indien succesvol en implementeerbaar) 
 
-Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV [zie eerder traject](https://github.com/Drechtsteden/API). Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen echt structureel te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin de brokken functionaliteit genoemd worden.
+Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV ([zie eerder API-traject](https://github.com/Drechtsteden/API)). Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen echt structureel te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin de brokken functionaliteit genoemd worden.
 
 <p align="center">
   <img src="functionaliteit%20API-Management.png" width="450" alt="Functionaliteit API-Management">

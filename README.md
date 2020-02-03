@@ -29,7 +29,7 @@ Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het beg
   <img src="functionaliteit%20API-Management.png" width="450" alt="Functionaliteit API-Management">
 </p>
 
-In de architectuur krijgen de API-Gateway en NLX de volgende positie (de API-Manager en de API-Portal zijn hierin niet ingetekend):
+In de architectuur krijgen de API-Gateway en NLX de volgende positie (de API-Manager en het API-Portaal zijn hierin niet ingetekend):
 
 ![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/API-Management%20Drechtsteden.jpg
 "Invulling Gemeentelijke Gegevenslandschap")

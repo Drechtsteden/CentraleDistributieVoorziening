@@ -36,6 +36,6 @@ In de architectuur krijgt de API-Gateway en NLX de volgende positie:
 ## as a Service 
 Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een dienstverlenende partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn (dit zal namelijk de komende jaren steeds aan verandering onderhevig blijven). Het past in de beelden van Drechtsteden dat de benodigde tooling op een integratieplatform vanuit de Cloud worden aangeboden.
 
-De eisen die Drechtsteden stelt aan de tooling en het beheer van het gehele API-verkeer staan beschreven in de [Requirements specificatie](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Requirements%20specificatie%20API-Management.pdf).
+De eisen die Drechtsteden stelt aan de tooling en het beheer van het gehele API-verkeer staan beschreven in de door Drechtsteden opgestelde [Requirements specificatie](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Requirements%20specificatie%20API-Management.pdf).
 
 Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl).

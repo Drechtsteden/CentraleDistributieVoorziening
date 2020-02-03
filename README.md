@@ -20,16 +20,17 @@ De integratievoorziening wordt in Drechtsteden aangeduid als Centrale Distributi
 
 Hieraan worden binnen afzienbare tijd toegevoegd:
 -	API Gateway (als onderdeel van API-Management tooling)
--	NLX (indien succesvol en implementeerbaar, eventueel als onderdeel van API Gateway) 
+-	NLX (indien succesvol en implementeerbaar) 
 
 ## Ontwikkeling
-Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV. Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen te ondersteunen voegen we nu API-Management tooling toe aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie.
+Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV. Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin een API-Gateway en NLX een plek hebben gekregen.
 
 ![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/API-Management%20Drechtsteden.jpg
 "Invulling Gemeentelijke Gegevenslandschap")
 
+De eisen die Drechtsteden stelt aan de tooling die vereist is om het gehele API-verkeer goed in te richten staan beschreven in de [Requirements specificatie](https://github.com/Drechtsteden/API/blob/master/Requirements%20specificatie%20API-Management.pdf)
+
 ## as a Service 
-Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een geschikte partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn. Het past in de beelden van Drechtsteden dat de benodigde tooling 
-op een integratieplatform vanuit de Cloud worden aangeboden.
+Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een dienstverlenende partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn (dit zal namelijk de komende jaren steeds aan verandering onderhevig blijven). Het past in de beelden van Drechtsteden dat de benodigde tooling op een integratieplatform vanuit de Cloud worden aangeboden.
 
 Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl).

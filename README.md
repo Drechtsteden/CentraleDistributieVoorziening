@@ -24,5 +24,5 @@ Grip houden op data is essentieel!
 "Invulling Gemeentelijke Gegevenslandschap")
 
 Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een geschikte partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn. Het past in de beelden van Drechtsteden dat de benodigde tooling op een integratieplatform vanuit de Cloud worden aangeboden.
-Drechtsteden heeft een animatiefilm gemaakt waarin de integrale aanpak op het gebied van data wordt gevisualiseerd: https://www.youtube.com/watch?v=kednu5b_8ew
+Drechtsteden heeft een animatiefilm gemaakt waarin de integrale aanpak op het gebied van data wordt gevisualiseerd, zie [animatie](https://www.youtube.com/watch?v=kednu5b_8ew). 
 Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl).

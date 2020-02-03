@@ -23,7 +23,12 @@ Hieraan worden binnen afzienbare tijd toegevoegd:
 -	NLX (indien succesvol en implementeerbaar) 
 
 ## Ontwikkeling
-Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV. Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin een API-Gateway en NLX een plek hebben gekregen.
+Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV. Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin de brokken functionaliteit genoemd worden.
+
+![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/functionaliteit%20API-Management.jpg
+"Functionaliteit API-Management")
+
+In de architectuur krijgt de API-Gateway en NLX de volgende positie:
 
 ![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/API-Management%20Drechtsteden.jpg
 "Invulling Gemeentelijke Gegevenslandschap")

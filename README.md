@@ -19,7 +19,7 @@ De integratievoorziening wordt in Drechtsteden aangeduid als Centrale Distributi
 -	Digikoppeling adapter
 
 Hieraan worden binnen afzienbare tijd toegevoegd:
--	API Gateway (als onderdeel van API-Management tooling)
+-	API Gateway (als onderdeel van de tooling aangeduid met het container begrip 'API-Management tooling')
 -	NLX (indien succesvol en implementeerbaar) 
 
 ## Ontwikkeling
@@ -28,9 +28,9 @@ Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het beg
 ![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/API-Management%20Drechtsteden.jpg
 "Invulling Gemeentelijke Gegevenslandschap")
 
-De eisen die Drechtsteden stelt aan de tooling die vereist is om het gehele API-verkeer goed in te richten staan beschreven in de [Requirements specificatie](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Requirements%20specificatie%20API-Management.pdf).
-
 ## as a Service 
 Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een dienstverlenende partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn (dit zal namelijk de komende jaren steeds aan verandering onderhevig blijven). Het past in de beelden van Drechtsteden dat de benodigde tooling op een integratieplatform vanuit de Cloud worden aangeboden.
+
+De eisen die Drechtsteden stelt aan de tooling en het beheer van het gehele API-verkeer staan beschreven in de [Requirements specificatie](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Requirements%20specificatie%20API-Management.pdf).
 
 Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl).

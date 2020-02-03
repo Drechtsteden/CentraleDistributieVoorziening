@@ -19,8 +19,8 @@ De integratievoorziening wordt in Drechtsteden aangeduid als Centrale Distributi
 -	Digikoppeling adapter
 
 Hieraan worden binnen afzienbare tijd toegevoegd:
--	API Gateway (als onderdeel van de tooling aangeduid met het container begrip 'API-Management tooling')
--	NLX (indien succesvol en implementeerbaar) 
+-	Lokale API Gateway (als onderdeel van de tooling aangeduid met het container begrip 'API-Management tooling')
+-	[NLX](https://https://nlx.io/) (indien succesvol en implementeerbaar) 
 
 ## Ontwikkeling
 Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV. Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin de brokken functionaliteit genoemd worden.
@@ -29,7 +29,7 @@ Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het beg
   <img src="functionaliteit%20API-Management.png" width="450" alt="Functionaliteit API-Management">
 </p>
 
-In de architectuur krijgt de API-Gateway en NLX de volgende positie:
+In de architectuur krijgen de API-Gateway en NLX de volgende positie (de API-Manager en de API-Portal zijn hierin niet ingetekend):
 
 ![alt text](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/API-Management%20Drechtsteden.jpg
 "Invulling Gemeentelijke Gegevenslandschap")

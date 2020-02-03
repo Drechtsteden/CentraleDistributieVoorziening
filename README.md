@@ -12,7 +12,7 @@ De landelijke beweging ‘Common Ground’ benadrukt het belang van datamanageme
 
 Drechtsteden heeft een [animatiefilm](https://www.youtube.com/watch?v=kednu5b_8ew) gemaakt waarin de integrale aanpak op het gebied van data wordt gevisualiseerd. 
 
-## Integratievoorziening 
+## Centrale Distributie Voorziening 
 De integratievoorziening wordt in Drechtsteden aangeduid als Centrale Distributie Voorziening (CDV). De CDV bevindt zich in de integratielaag als we het plotten op de architectuurlagen die ook voor Common Ground gehanteerd worden (zie onderstaande visualisatie). De CDV biedt momenteel tooling op het gebied van:
 -	Gemeentelijke servicebus
 -	ETL

@@ -10,7 +10,8 @@ Aan de basis van de digitale transformatie ligt het managen van data. Kwalitatie
 De integratievoorziening wordt in Drechtsteden aangeduid als Centrale Distributie Voorziening (CDV). De CDV bevindt zich in de integratielaag als we het plotten op de architectuurlagen die ook voor Common Ground gehanteerd worden (zie onderstaande visualisatie). De CDV biedt momenteel tooling op het gebied van:
 -	Gemeentelijke servicebus
 -	ETL
--	Digikoppeling adapter 
+-	Digikoppeling adapter
+
 Hieraan worden binnen afzienbare tijd toegevoegd:
 -	API Gateway (als onderdeel van API-Management tooling)
 -	NLX (indien succesvol en implementeerbaar, eventueel als onderdeel van API Gateway) 
@@ -24,5 +25,6 @@ Grip houden op data is essentieel!
 "Invulling Gemeentelijke Gegevenslandschap")
 
 Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dienst af te nemen bij een geschikte partij. Daarbij is het voor Drechtsteden ondergeschikt welke technieken daarvoor vereist zijn. Het past in de beelden van Drechtsteden dat de benodigde tooling op een integratieplatform vanuit de Cloud worden aangeboden.
-Drechtsteden heeft een animatiefilm gemaakt waarin de integrale aanpak op het gebied van data wordt gevisualiseerd, zie [animatie](https://www.youtube.com/watch?v=kednu5b_8ew). 
+Drechtsteden heeft een [animatiefilm](https://www.youtube.com/watch?v=kednu5b_8ew) gemaakt waarin de integrale aanpak op het gebied van data wordt gevisualiseerd. 
+
 Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl).

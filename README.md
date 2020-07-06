@@ -25,7 +25,7 @@ Hieraan worden binnen afzienbare tijd toegevoegd:
 Het beheren van datastromen voor Basis- en Kernregistraties was nog maar het begin van het CDV ([zie eerder API-traject](https://github.com/Drechtsteden/API)). Nieuwe aandachtsgebieden en technieken brengen continue nieuwe datastromen met zich mee. Om zowel bestaande als nieuwe datastromen echt structureel te ondersteunen wordt tooling toegevoegd aan de gereedschapskist van het integratie-team, zie onderstaande visualisatie waarin de brokken functionaliteit genoemd worden.
 
 <p align="center">
-  <img src="functionaliteit%20API-Management.jpeg" width="450" alt="Functionaliteit API-Management">
+  <img src="functionaliteit%20API-Management.png" width="450" alt="Functionaliteit API-Management">
 </p>
 
 In de architectuur krijgen de API-Gateway en NLX de volgende positie (de API-Manager en het API-Portaal zijn hierin niet ingetekend):

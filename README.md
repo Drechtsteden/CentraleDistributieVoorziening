@@ -38,5 +38,4 @@ Het toekomstbeeld van Drechtsteden is om het gehele integratievraagstuk als dien
 
 De eisen die Drechtsteden stelt aan de tooling en het beheer van het gehele API-verkeer staan beschreven in de door Drechtsteden opgestelde [Requirements specificatie](https://github.com/Drechtsteden/CentraleDistributieVoorziening/blob/master/Requirements%20specificatie%20API-Management.pdf).
 
-Voor vragen neem contact op met Dennis de Wit, Chief Data Officer Drechtsteden (d.de.wit@drechtsteden.nl of [LinkedIn](https://www.linkedin.com/in/dennis-de-wit-57ba8a20/
-"Dennis de Wit"))).
+Heb je vragen of opmerkingen over dit traject: neem contact op met Reinier Vaneker (RAL.Vaneker@drechtsteden.nl).
